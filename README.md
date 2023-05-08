@@ -1,4 +1,5 @@
 # repositorio-grupo12
 Texto: La vanguardia como software
-integrantes:
-Gianluca Hiraizumi, Emilia Bravo, 
+- integrantes:
+- Gianluca Hiraizumi
+- Emilia Bravo
