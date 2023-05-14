@@ -3,3 +3,4 @@
 integrantes:<br>
 - Gianluca Hiraizumi<br>
 - Emilia Bravo
+- Isidora Vera 
