@@ -4,3 +4,5 @@ integrantes:<br>
 - Gianluca Hiraizumi<br>
 - Emilia Bravo<br>
 - Isidora Vera 
+- Caterina Muñoz<br>
+
