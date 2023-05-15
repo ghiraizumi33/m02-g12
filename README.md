@@ -6,4 +6,5 @@ integrantes:<br>
 - Isidora Vera <br>
 - Caterina Muñoz<br>
 - Valentina Fritis<br>
+- Emilia del Rio <br>
 
