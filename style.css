@@ -1,6 +1,13 @@
 body{
 background: beige;}
 
+ul {display: flex;
+   list-style-type: none;
+   justify-content: right;
+  font-size: 1rem;
+  background-color: black;
+  color: white;}
+
 .tituloimagenes{
  font-family: 'Poppins';
  text-align: center;
