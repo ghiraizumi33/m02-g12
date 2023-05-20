@@ -5,8 +5,12 @@ ul {display: flex;
    list-style-type: none;
    justify-content: right;
   font-size: 1rem;
-  background-color: black;
-  color: white;}
+  background-color: black;}
+
+ul li {text-decoration: none;
+     padding: 10px;
+     justify-content: space-between;
+     color: white;}
 
 .tituloimagenes{
  font-family: 'Poppins';
