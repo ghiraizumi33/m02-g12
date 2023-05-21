@@ -2,64 +2,52 @@
 body{
 background:rgb(255, 255, 255);
 font-family: 'Abel', sans-serif;}
-h1,h2,h3{font-family: 'Arya', sans-serif;}
+h1,h2,h3{font-family: 'Arya', sans-serif;
+        color: rgb(59, 94, 104);}
 
 ul {display: flex;
    list-style-type: none;
    justify-content: right;
   font-size: 1rem;
-  background-color: rgb(23, 96, 135);}
+  background-color: rgb(80, 128, 142);}
 
 ul li {text-decoration: none;
      padding: 40px;
      justify-content: space-between;
      color: white;}
+.titulo1 {background-color: rgb(111, 160, 174);
+          }
 
-.conciertorobot{background-image: url(img/concierto robot 1.webp);
-               height: 400px;
-               color: rgb(29, 132, 181);
-               padding-top: 10px;}
-
-.tituloimagenes{
- font-family: 'Arya', sans-serif;
- text-align: center;
- font-size: 30px;
- color: rgb(23, 96, 135);
- margin-top: 70px;}
-
-#conteitemcarrusel{
-position: absolute;
-margin-top: -140px;
-margin-left: 150px;
-height: 790px;
-width: 1000px;
-overflow: hidden;}
-
-.itemcarrusel{
-height: 100%;
-position: relative;}
-
-.tarjetacarrusel{
-height: 100%;
-display: flex;
-justify-content: center;
-align-items: center;}
-
-.tarjetacarrusel img{
-  justify-content: center;
-  width: 40%;
-  height: 50%;}
-
-.flechascarrusel {
-  position: absolute;
-  top: 0px;
-  height: 100%;
-  width: 100%;
+/*carrucel*/
+.slider-frame {
+width: 500px;
+height: auto;
+margin: 50px auto 0;
+overflow: hidden;
+}
+.slider-frame ul {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0px 130px;}
+  padding: 0;
+  width: 400%;
+  animation: slide 10s infinite alternate ease-in-out;
+}
+.slider-frame li {
+  list-style: none;
+  width: 100%;
+}
+.slider-frame img {
+  width: 100%;
+}
+@keyframes slide {
+  0% {margin-left: 0%}
+  20%{margin-left: 0%}
 
-.flechascarrusel i {
-  color: rgb(29, 132, 181);
-  font-size: 30px;}
+  25% {margin-left: -100%}
+  45%{margin-left: -100%}
+
+  50% {margin-left: -200%}
+  70%{margin-left: -200%}
+
+  75% {margin-left: -300%}
+  95%{margin-left: -300%}
+}
