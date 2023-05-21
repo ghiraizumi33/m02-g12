@@ -15,6 +15,10 @@ ul li {text-decoration: none;
      padding: 40px;
      justify-content: space-between;
      color: white;}
+
+a{color: white;
+  text-decoration: none;}
+
 .titulo1 {background-color: rgb(111, 160, 174);
           }
 
@@ -51,3 +55,8 @@ overflow: hidden;
   75% {margin-left: -300%}
   95%{margin-left: -300%}
 }
+
+footer{background-color: #50808E;
+      height: 250px;
+      margin-top: 25px;
+      text-align: center;}
