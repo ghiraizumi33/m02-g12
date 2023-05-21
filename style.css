@@ -5,6 +5,7 @@ padding: 0px;}
 body{
 background:rgb(255, 255, 255);
 font-family: 'Abel', sans-serif;}
+
 h1,h2,h3{font-family: 'Arya', sans-serif;
         color: rgb(59, 94, 104);}
 
@@ -23,9 +24,35 @@ a{color: white;
   text-decoration: none;}
 
 .titulo1 {background-color: rgb(111, 160, 174);
-          height: 300px;
-          width: 100%;
-          margin: 0 auto;}
+height: 150px;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+font-size: 40px;}
+
+.subtitulo {
+color: rgb(80, 128, 142);
+margin-top: 20px;
+text-align: center;
+font-size: 30px;}
+
+h3 {
+margin-left: 90px;
+margin-top: 40px;}
+
+.rectangulo {
+border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+width: 1100px;
+height: 100px;
+padding: 10px;
+margin-left: 80px;
+}
+
+.sobreelproyecto {
+color: rgb(59, 94, 104);
+margin-top: 10px;
+margin-left: 50px;
+margin-right: 50px;}
 
 /*carrucel*/
 .slider-frame {
@@ -62,7 +89,40 @@ overflow: hidden;
 }
 /*fin codigo carrucel*/
 
+.sobreelpaper {
+color: rgb(59, 94, 104);
+margin-top: 15px;
+margin-left: 50px;
+margin-right: 50px;}
+
+.analisis {
+color: rgb(59, 94, 104);
+margin-top: 15px;
+margin-left: 50px;
+margin-right: 50px;}
+
 footer{background-color: #50808E;
-      height: 250px;
-      margin-top: 25px;
-      text-align: center;}
+      height: 150px;
+      margin-top: 25px;}
+
+.iconos i{
+color: white;
+font-size: 20px;
+display: block;
+margin-left: 50px;
+position: relative;
+top: 35px;
+margin-top: 25px;}
+
+.mail p{
+color: white;
+margin-top: -34px;
+margin-left: 85px;}
+
+.info p{
+color: white;
+margin-top: 26px;
+margin-left: 85px;}
+
+
+
