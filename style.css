@@ -8,9 +8,14 @@ ul {display: flex;
   background-color: black;}
 
 ul li {text-decoration: none;
-     padding: 10px;
+     padding: 40px;
      justify-content: space-between;
      color: white;}
+
+.conciertorobot{background-image: url(img/concierto robot 1.webp);
+               height: 400px;
+               color: white;
+               padding-top: 10px;}
 
 .tituloimagenes{
  font-family: 'Poppins';
