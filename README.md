@@ -8,3 +8,4 @@ integrantes:<br>
 - Valentina Fritis<br>
 - Javiera Riesco <br>
 - Emilia del Rio <br>
+- Sofía Galaz <br>
