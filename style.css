@@ -24,7 +24,8 @@ a{color: white;
 
 .titulo1 {background-color: rgb(111, 160, 174);
           height: 300px;
-          width: 100%;}
+          width: 100%;
+          margin: 0 auto;}
 
 /*carrucel*/
 .slider-frame {
@@ -59,6 +60,7 @@ overflow: hidden;
   75% {margin-left: -300%}
   95%{margin-left: -300%}
 }
+/*fin codigo carrucel*/
 
 footer{background-color: #50808E;
       height: 250px;

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Arya:wght@400;700&display=swap');
+*{margin: 0px;
+padding: 0px;}
+
+body{
+background:rgb(255, 255, 255);
+font-family: 'Abel', sans-serif;}
+h1,h2,h3{font-family: 'Arya', sans-serif;
+        color: rgb(59, 94, 104);}
+
+ul {display: flex;
+   list-style-type: none;
+   justify-content: right;
+  font-size: 1rem;
+  background-color: rgb(80, 128, 142);}
+
+ul li {text-decoration: none;
+     padding: 40px;
+     justify-content: space-between;
+     color: white;}
+
+a{color: white;
+  text-decoration: none;}
+  
+.titulo1 {background-color: rgb(111, 160, 174);
+          height: 300px;
+          width: 100%;}
+footer{background-color: #50808E;
+      height: 250px;
+      margin-top: 25px;
+      text-align: center;}
