@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Arya:wght@400;700&display=swap');
 body{
-background: beige;}
+background:rgb(255, 255, 255);
+font-family: 'Abel', sans-serif;}
+h1,h2,h3{font-family: 'Arya', sans-serif;}
 
 ul {display: flex;
    list-style-type: none;
    justify-content: right;
   font-size: 1rem;
-  background-color: black;}
+  background-color: rgb(23, 96, 135);}
 
 ul li {text-decoration: none;
      padding: 40px;
@@ -15,14 +17,14 @@ ul li {text-decoration: none;
 
 .conciertorobot{background-image: url(img/concierto robot 1.webp);
                height: 400px;
-               color: white;
+               color: rgb(29, 132, 181);
                padding-top: 10px;}
 
 .tituloimagenes{
- font-family: 'Poppins';
+ font-family: 'Arya', sans-serif;
  text-align: center;
  font-size: 30px;
- color: rosybrown;
+ color: rgb(23, 96, 135);
  margin-top: 70px;}
 
 #conteitemcarrusel{
@@ -59,5 +61,5 @@ align-items: center;}
   padding: 0px 130px;}
 
 .flechascarrusel i {
-  color: rosybrown;
+  color: rgb(29, 132, 181);
   font-size: 30px;}
