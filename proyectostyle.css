@@ -24,6 +24,21 @@ a{color: white;
 .titulo1 {background-color: rgb(111, 160, 174);
           height: 300px;
           width: 100%;}
+
+.hiroriza{margin-left: 30px;
+         display: inline-block;
+         position: absolute;}
+
+.borde{width: 3px;
+       height: 200px;
+       background-color: #3B5E68;
+       margin-left: 30px;
+       display: inline-block;}
+
+.izq{float: left;
+margin-left: 100px;
+display: inline-block;}
+
 footer{background-color: #50808E;
       height: 250px;
       margin-top: 25px;
