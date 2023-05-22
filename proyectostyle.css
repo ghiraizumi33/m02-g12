@@ -28,6 +28,16 @@ a{color: white;
           font-size: 40px; 
           text-align: center;}
 
+.infopaper {margin-top: 40px;
+      margin-right: 20px;
+      margin-bottom: 30px;
+      margin-left: 60px;}
+
+.infopaper h2 {
+    margin-top: 20px;
+    margin-bottom: 1px;}
+    
+
 .hiroriza{margin-left: 30px;
          display: inline-block;
          position: absolute;}
