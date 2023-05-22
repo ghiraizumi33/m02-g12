@@ -9,7 +9,7 @@ font-family: 'Abel', sans-serif;}
 h1,h2,h3{font-family: 'Arya', sans-serif;
         color: rgb(59, 94, 104);}
 
-p {font-size: 20px;
+main p {font-size: 20px;
 margin-top: 10px;}
 
 ul {display: flex;
