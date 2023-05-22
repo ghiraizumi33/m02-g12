@@ -26,7 +26,26 @@ a{color: white;
           width: 100%;
           font-size: 40px; 
           text-align:center;}
+
 footer{background-color: #50808E;
-      height: 250px;
-      margin-top: 25px;
-      text-align: center;}
+      height: 150px;
+      margin-top: 100px;}
+
+.iconos i{
+color: white;
+font-size: 20px;
+display: block;
+margin-left: 50px;
+position: relative;
+top: 35px;
+margin-top: 25px;}
+
+.mail p{
+color: white;
+margin-top: -34px;
+margin-left: 85px;}
+
+.info p{
+color: white;
+margin-top: 26px;
+margin-left: 85px;}
