@@ -4,10 +4,10 @@ padding: 0px;}
 
 body{
 background:rgb(255, 255, 255);
-font-family: 'Abel', sans-serif;}
+font-family: 'Abel', sans-serif;
+color:rgb(59, 94, 104) }
 h1,h2,h3{font-family: 'Arya', sans-serif;
         color: rgb(59, 94, 104);}
-
 ul {display: flex;
    list-style-type: none;
    justify-content: right;

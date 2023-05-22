@@ -41,6 +41,8 @@ a{color: white;
 .decor1     {background-color: rgb(111, 160, 174);
             width: 70%;
             height: 45px}
+.teatro {position: absolute;
+        margin-top: 70px}
 
 .rectangulo2 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
                 width: 55%;
@@ -75,9 +77,13 @@ a{color: white;
             height: 45px;
             margin-left: 10%}
 
+.artes {position: absolute;
+        margin-top: 70px;
+        margin-left: 63%}
+
 .rectangulo4 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
                 width: 55%;
-                height: 250px;
+                height: 150px;
                 padding: 10px;
                 margin-left: 5%;
                 margin-top: 70px;
@@ -94,7 +100,7 @@ a{color: white;
 
 .rectangulo5 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
                 width: 55%;
-                height: 250px;
+                height: 170px;
                 padding: 10px;
                 margin-left: 30%;
                 margin-top: 70px;
