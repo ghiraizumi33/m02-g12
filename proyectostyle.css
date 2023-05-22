@@ -39,6 +39,17 @@ a{color: white;
 margin-left: 100px;
 display: inline-block;}
 
+.descripcion {
+border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+width: 70%;
+height: 80px;
+padding: 10px;
+margin-left: 50px;
+margin-top: 100px;
+margin-right: 50px;}
+
+.descripcion p{ margin-top: 10px;}
+
 footer{background-color: #50808E;
       height: 250px;
       margin-top: 25px;
