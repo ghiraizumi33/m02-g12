@@ -32,7 +32,7 @@ a{color: white;
          position: absolute;}
 
 .borde{width: 3px;
-       height: 200px;
+       height: 180px;
        background-color: #3B5E68;
        margin-left: 30px;
        display: inline-block;}
@@ -56,7 +56,7 @@ font-size: 20px;}
 .proyect{margin-left: 50px;}
 .proyect p{border: 1px solid rgb(59, 94, 104); /* Línea delgada */
 width: 93%;
-height: 220px;
+height: 250px;
 padding: 10px;
 margin-right:50px;
 margin-top: 10px;
@@ -65,6 +65,28 @@ font-size: 20px;
 iframe{margin-left: 50px;}
 
 footer{background-color: #50808E;
-      height: 250px;
-      margin-top: 25px;
-      text-align: center;}
+      height: 150px;
+      margin-top: 25px;}
+
+.iconos i{
+color: white;
+font-size: 20px;
+display: block;
+margin-left: 50px;
+position: relative;
+top: 35px;
+margin-top: 25px;}
+
+.mail p{
+color: white;
+margin-top: -34px;
+margin-left: 85px;}
+
+.info p{
+color: white;
+margin-top: 26px;
+margin-left: 85px;}
+
+
+
+
