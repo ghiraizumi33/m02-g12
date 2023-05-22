@@ -27,6 +27,88 @@ a{color: white;
           font-size: 40px; 
           text-align:center;}
 
+.rectangulo     {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+                width: 70%;
+                height: 100px;
+                padding: 10px;
+                margin-left: 5%;
+                }
+.parr1 {color: rgb(59, 94, 104);
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;}
+
+.decor1     {background-color: rgb(111, 160, 174);
+            width: 70%;
+            height: 45px}
+
+.rectangulo2 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+                width: 55%;
+                height: 160px;
+                padding: 10px;
+                margin-left: 35%;
+                margin-top: 70px}
+
+.parr2 {color: rgb(59, 94, 104);
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;}
+.decor2     {background-color: rgb(111, 160, 174);
+            width: 55%;
+            height: 45px;
+            margin-left: 40%}
+
+.rectangulo3 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+                width: 55%;
+                height: 250px;
+                padding: 10px;
+                margin-left: 15%;
+                margin-top: 70px;
+                }
+.parr3 {color: rgb(59, 94, 104);
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;}
+
+.decor3     {background-color: rgb(111, 160, 174);
+            width: 55%;
+            height: 45px;
+            margin-left: 10%}
+
+.rectangulo4 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+                width: 55%;
+                height: 250px;
+                padding: 10px;
+                margin-left: 5%;
+                margin-top: 70px;
+                }
+.parr4 {color: rgb(59, 94, 104);
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;}
+
+.decor4     {background-color: rgb(111, 160, 174);
+            width: 55%;
+            height: 45px;
+            margin-left: 0%}
+
+.rectangulo5 {border: 1px solid rgb(59, 94, 104); /* Línea delgada */
+                width: 55%;
+                height: 250px;
+                padding: 10px;
+                margin-left: 30%;
+                margin-top: 70px;
+                }
+.parr5 {color: rgb(59, 94, 104);
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 50px;}
+
+.decor5     {background-color: rgb(111, 160, 174);
+            width: 55%;
+            height: 45px;
+            margin-left: 35%}
+
 footer{background-color: #50808E;
       height: 150px;
       margin-top: 100px;}
